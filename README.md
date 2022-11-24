@@ -1,1 +1,0 @@
-# POEC-GIT
